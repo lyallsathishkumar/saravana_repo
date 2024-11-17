@@ -1,2 +1,2 @@
 # saravana_repo
-demo repo to learn git basucs
+demo repo to learn git basics
